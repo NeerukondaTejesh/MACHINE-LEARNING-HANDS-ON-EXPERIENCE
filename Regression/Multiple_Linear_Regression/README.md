@@ -175,7 +175,6 @@ Obtain Coefficients and Intercept
 * Matplotlib
 * Scikit-learn
 * Google Colab
-* Jupyter Notebook
 
 ## Learning Outcomes
 
