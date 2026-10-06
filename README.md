@@ -1,3 +1,3 @@
-# Machine Learning Basics
+# Machine Learning Hands on Experience
 
-This repository contains my machine learning practice notebooks
+This repository contains my machine learning hands on work notebooks with real-life problems.
