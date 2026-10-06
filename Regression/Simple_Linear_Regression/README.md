@@ -89,7 +89,6 @@ The test observations were plotted together with the fitted regression line to v
 * Matplotlib
 * Scikit-learn
 * Google Colab
-* Jupyter Notebook
 
 ## Files
 
